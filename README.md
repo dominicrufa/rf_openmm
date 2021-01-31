@@ -10,6 +10,3 @@ a library and implementation sandbox for the reaction field nonbonded method in 
 ### Copyright
 
 Copyright (c) 2021, dominic rufa
-
-
-
